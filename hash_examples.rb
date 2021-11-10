@@ -10,3 +10,9 @@ animal = {
   species: "lion",
   color: "yellow"
 }
+
+customer = {
+  name: "Joe Shmo",
+  clothes: ["t-shirt", "slacks", "bracelet"],
+  fav_store: "Gap"
+}
